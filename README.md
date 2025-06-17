@@ -21,7 +21,7 @@
 
 </br>
 
-### 1️⃣ [컴퓨터 구조 (Computer Architecture)](./ComputerArchitecture/README.md)
+### 1️⃣ [컴퓨터 구조 (Computer Architecture)](./컴퓨터구조/README.md)
 - 컴퓨터의 구성 요소 (연산장치, 제어장치, 기억장치 등)
 
 ---
