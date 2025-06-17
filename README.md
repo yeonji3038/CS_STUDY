@@ -21,42 +21,38 @@
 
 </br>
 
-## 📚 목차 구성
-### 1️⃣ 컴퓨터 구조 (Computer Architecture)
+### 1️⃣ [컴퓨터 구조 (Computer Architecture)](./ComputerArchitecture/README.md)
 - 컴퓨터의 구성 요소 (연산장치, 제어장치, 기억장치 등)
----
-
-### 2️⃣ 운영체제 (Operating System)
 
 ---
 
-### 3️⃣ 네트워크 (Network)
-
-
----
-
-### 4️⃣ 데이터베이스 (Database)
-
+### 2️⃣ [운영체제 (Operating System)](./OperatingSystem/README.md)
 
 ---
 
-### 5️⃣ 자료구조 (Data Structures)
-
-
----
-
-### 6️⃣ 알고리즘 (Algorithms)
+### 3️⃣ [네트워크 (Network)](./Network/README.md)
 
 ---
 
-### 7️⃣ 보안 (Security)
+### 4️⃣ [데이터베이스 (Database)](./Database/README.md)
 
 ---
 
-### 8️⃣ 개발 환경 & 인프라 (DevOps)
-
+### 5️⃣ [자료구조 (Data Structures)](./DataStructures/README.md)
 
 ---
 
-### 9️⃣ BACK-END 기술
+### 6️⃣ [알고리즘 (Algorithms)](./Algorithms/README.md)
+
+---
+
+### 7️⃣ [보안 (Security)](./Security/README.md)
+
+---
+
+### 8️⃣ [개발 환경 & 인프라 (DevOps)](./DevOps/README.md)
+
+---
+
+### 9️⃣ [Back-End 기술 정리](./Backend/README.md)
 
