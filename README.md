@@ -54,5 +54,5 @@
 
 ---
 
-### 9️⃣ [Back-End 기술 정리](./Backend/README.md)
+### 9️⃣ [Back-End 기술](./Backend/README.md)
 
