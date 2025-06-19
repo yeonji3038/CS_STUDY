@@ -13,40 +13,40 @@
 
 | 항목 | 내용 |
 |------|------|
-| 진행 방식 | 주 2회 진행 / 각 회차는 일주일 동안 학습한 내용을 바탕으로 **서로 CS 질문을 주고받는 모의 면접** 방식으로 진행 |
+| 진행 방식 | 주 2회 진행 (수요일, 일요일 20시) <br>– **수요일**: 서로 조사해온 CS 주제 2개씩 발표 <br>– **일요일**: 그 주에 공부한 내용을 바탕으로 **모의 면접** 진행 |
+| 자료 업로드 | 매주 **화요일 23:59까지 GitHub에 발표 자료 업로드** |
 | 월말 정리 | 매달 마지막 주는 **한 달간 학습한 전체 내용을 기반으로 종합 모의 면접** 진행 |
 | 회차당 시간 | 약 1시간 |
 | 스터디 장소 | 온라인 |
 | 협업 툴 | GitHub, Discord |
+| 참고 문헌 | 『면접을 위한 CS 전공지식 노트』 |
 
 </br>
 
-### 1️⃣ [컴퓨터 구조 (Computer Architecture)](./컴퓨터구조)
-- [컴퓨터의 구성 요소](/컴퓨터구조/컴퓨터의%20구성%20요소.md)
+### 1️⃣ [디자인 패턴과 프로그래밍 패러다임](./컴퓨터구조)
+- [디자인 패턴]
+- [프로그래밍 패러다임]
+
 
 ---
 
-### 2️⃣ [운영체제 (Operating System)](./OperatingSystem/README.md)
+### 2️⃣ [네트워크](./OperatingSystem/README.md)
 
 ---
 
-### 3️⃣ [네트워크 (Network)](./Network/README.md)
+### 3️⃣ [운영체제](./Network/README.md)
 
 ---
 
-### 4️⃣ [데이터베이스 (Database)](./Database/README.md)
+### 4️⃣ [데이터베이스](./Database/README.md)
 
 ---
 
-### 5️⃣ [자료구조 (Data Structures)](./DataStructures/README.md)
+### 5️⃣ [자료구조](./DataStructures/README.md)
 
 ---
 
-### 6️⃣ [알고리즘 (Algorithms)](./Algorithms/README.md)
-
----
-
-### 7️⃣ [보안 (Security)](./Security/README.md)
+### 6️⃣ [보안 (Security)](./Security/README.md)
 
 ---
 
