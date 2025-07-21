@@ -1,4 +1,4 @@
-## EBS(Elastic Block Store)
+# EBS(Elastic Block Store)
 > **단일 AZ안에서만 접근이 가능한 저장소**
 >
 > 블록 스토리지(Block Storage) -> 
@@ -14,7 +14,7 @@ EC2에 운영체제(OS), 앱, DB 등 설치할 때
 
 ---
 
-## EFS (Elastic File System)
+# EFS (Elastic File System)
 > **다중 AZ안에서도 접근이 가능한 저장소**
 >
 > 파일 스토리지(File Storage) -> 
