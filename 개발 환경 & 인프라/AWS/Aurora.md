@@ -1,4 +1,4 @@
-# Amazon Aurora
+# Amazon Aurora 🌟
 > - AWS가 제공하는 **고성능 관리형 RDB**
 > - **MySQL, PostgreSQL 완전 호환**
 > - **최대 5배 빠름 (MySQL 기준)**
