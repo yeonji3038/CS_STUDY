@@ -17,6 +17,9 @@
 ### 2.2 로그 (Logs)
 - 애플리케이션 로그, 시스템 로그를 수집/저장
 - CloudWatch Logs Insights를 통해 **SQL 유사 쿼리로 로그 분석 가능**
+- **구독 필터(Subscription Filter)** 기능 제공:
+  - 로그 데이터를 실시간으로 다른 서비스에 스트리밍 가능.
+  - 예: Kinesis Data Streams, Kinesis Firehose, Lambda, OpenSearch Service.
 
 ### 2.3 알람 (Alarms)
 - 특정 임계값 초과/하락 시 알림 또는 자동 조치 수행

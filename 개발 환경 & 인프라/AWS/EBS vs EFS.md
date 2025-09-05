@@ -1,9 +1,12 @@
-# EBS(Elastic Block Store)
+# EBS(Elastic Block Store) 🌟
 > **단일 AZ안에서만 접근이 가능한 저장소**
 >
 > 블록 스토리지(Block Storage) -> 
 EC2 인스턴스에 직접 연결되는 디스크 형태의 저장소
 - EC2 -> 1:1
+
+- 고성능, 저지연.
+- 용도: DB, 트랜잭션 처리 등.
 
 📌 주로 사용할 때
 EC2에 운영체제(OS), 앱, DB 등 설치할 때
@@ -14,12 +17,15 @@ EC2에 운영체제(OS), 앱, DB 등 설치할 때
 
 ---
 
-# EFS (Elastic File System)
+# EFS (Elastic File System)🌟
 > **다중 AZ안에서도 접근이 가능한 저장소**
 >
 > 파일 스토리지(File Storage) -> 
 여러 EC2 인스턴스에서 공유 폴더처럼 동시에 접근 가능한 저장소
 - EC2-> 여러개 공유 가능
+- 완전 관리형 NFS 파일 시스템.
+- 여러 인스턴스에서 동시에 접근 가능.
+- 용도: 공유 파일 시스템, 컨테이너 워크로드
 
 
 📌 주로 사용할 때

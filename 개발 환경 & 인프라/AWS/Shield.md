@@ -19,6 +19,8 @@
 - DDoS 공격 발생 시 **비용 보호 제공**
 - **AWS DDoS Response Team(DDRT)**에서 실시간 대응 지원
 
+* CloudFront + WAF 사용 -> 전세계 엣지 위치에서 공격 방어 가능(방어 효과 극대화)
+
 ---
 
 ## 🎯 사용 시나리오
