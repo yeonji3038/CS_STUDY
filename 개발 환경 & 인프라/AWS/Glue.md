@@ -7,6 +7,7 @@
   - 서버리스: 인프라 관리 필요 없음.
   - 다양한 소스 지원: Amazon S3, RDS, Redshift, DynamoDB 등.
   - 자동 스키마 추론, 데이터 카탈로그 생성 가능.
+  * .csv, parquet 변환 적합
 
 ---
 

@@ -1,4 +1,4 @@
-# AWS Direct Connect 🌟
+# AWS Direct Connect 🌟🌟
 
 ## 1. 개요
 - AWS Direct Connect는 **온프레미스 데이터 센터 ↔ AWS 간 전용 네트워크 연결 서비스**.
